@@ -1,0 +1,102 @@
+
+
+html {
+
+}
+
+h1 {
+    text-align: center;
+    padding-bottom:15px;
+    padding-top:0px;
+    font-size: 50pt;
+}
+
+body {
+ background-color: none;
+ padding-top:60px;
+ padding-bottom:80px;
+
+  background: url(images/headerbanner2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+  width:100%;
+  height:100%;
+}
+
+hr {
+    color: #F7DC6F;
+}
+h2 {
+    color: #1C2833
+}
+
+p {
+    color: #1C2833;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+li {
+    color: #1C2833
+}
+.logo {
+    align: center;
+}
+
+.card {
+   border: 1px solid rgb(243, 207, 22);
+}
+
+.card .card-header {
+    background-color: #FFD700;
+    border-bottom: 0px;
+}
+
+.card-header a {
+    color: #000;
+
+}
+
+.card-header a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.table tr:hover {
+    background-color: #CCC;
+}
+
+.playlistcontainer {
+    height:200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom:20px;
+}
+/*
+.itunes-header {
+  height:200px;
+  margin-bottom:80px;  
+  background: url(images/headerbanner.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;    
+}
+*/
+
+.btn-primary {
+    color: #fff;
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #A9A9A9;
+    border-color: #A9A9A9; 
+}
+
+    #A9A9A9
+
